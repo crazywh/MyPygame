@@ -15,7 +15,7 @@
 
 [源码链接](https://github.com/crazywh/Plane-Figh)
 
-[EXE文件链接]() 提取码：
+[EXE文件链接](https://pan.baidu.com/s/1EEQ6Dz-TliloNlxExokoWQ) 提取码：vdgz
 ## 贪吃蛇
 *参考基本的游戏界面完成，添加音乐，暂停，分数记录等功能*
 <div algin='center'>
@@ -26,7 +26,7 @@
 
 [源码链接](https://github.com/crazywh/Snake)
 
-[EXE文件链接]() 提取码：
+[EXE文件链接](https://pan.baidu.com/s/1_jFmtV9Au4BmfbVQtVa9Xg) 提取码：ndjk
 ## 井字游戏
 *添加音乐播放暂停等功能*
 <div algin='center'>
@@ -36,4 +36,4 @@
 
 [源码链接](https://github.com/crazywh/Tic-Tac-Toe-Game)
 
-[EXE文件链接]() 提取码：
+[EXE文件链接](https://pan.baidu.com/s/1X3T3own_75egXnEg-Q8yjA) 提取码：hex7

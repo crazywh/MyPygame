@@ -11,7 +11,7 @@
 <img src="https://github.com/crazywh/MyPygame/blob/master/Image/plane2.png"  height="330">
 </div>
 
-参考[教程视频](https://www.bilibili.com/video/BV1ZW411B7dY?from=search&seid=5735444825341283888)完成
+参考此[视频](https://www.bilibili.com/video/BV1ZW411B7dY?from=search&seid=5735444825341283888)完成
 
 [源码链接](https://github.com/crazywh/Plane-Figh)
 

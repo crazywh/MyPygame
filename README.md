@@ -15,14 +15,24 @@
 
 [源码链接](https://github.com/crazywh/Plane-Figh)
 
-[EXE链接]() 提取码：
+[EXE文件链接]() 提取码：
 ## 贪吃蛇
+*参考基本的游戏界面完成，添加音乐，暂停，分数记录等功能*
+<div algin='center'>
+<img src="https://github.com/crazywh/MyPygame/blob/master/Image/s1.png"  height="330">
+<img src="https://github.com/crazywh/MyPygame/blob/master/Image/s2.png"  height="330">
+<img src="https://github.com/crazywh/MyPygame/blob/master/Image/s3.png"  height="330">  
+</div>
 
 [源码链接](https://github.com/crazywh/Snake)
 
-[EXE链接]() 提取码：
+[EXE文件链接]() 提取码：
 ## 井字游戏
-
+*添加音乐播放暂停等功能*
+<div algin='center'>
+<img src="https://github.com/crazywh/MyPygame/blob/master/Image/t1.png"  height="330">
+<img src="https://github.com/crazywh/MyPygame/blob/master/Image/t2.png"  height="330">
+</div>
 [源码链接](https://github.com/crazywh/Tic-Tac-Toe-Game)
 
-[EXE链接]() 提取码：
+[EXE文件链接]() 提取码：

@@ -41,7 +41,7 @@
 ## 打砖块
 *添加音乐播放暂停等功能，背景更换，重开游戏功能*
 
-目前碰撞检测不够精确，需要修改完善，后续还以添加小球加速，无敌，挡板加长等功能
+目前碰撞检测不够精确，需要修改完善，后续还可以添加小球加速，无敌，挡板加长等功能
 <div algin='center'>
 <img src="https://github.com/crazywh/MyPygame/blob/master/Image/h1.png"  height="330">
 </div>

@@ -13,7 +13,7 @@
 
 参考此[视频](https://www.bilibili.com/video/BV1ZW411B7dY?from=search&seid=5735444825341283888)完成
 
-[源码链接](https://github.com/crazywh/Plane-Figh)
+[源码链接](https://github.com/crazywh/Plane-Fight)
 
 [EXE文件链接](https://pan.baidu.com/s/1EEQ6Dz-TliloNlxExokoWQ) 提取码：vdgz
 ## 贪吃蛇

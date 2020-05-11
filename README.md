@@ -26,7 +26,7 @@
 
 [源码链接](https://github.com/crazywh/Snake)
 
-[EXE文件链接](https://pan.baidu.com/s/1_jFmtV9Au4BmfbVQtVa9Xg) 提取码：ndjk
+[EXE文件链接](https://pan.baidu.com/s/1dl_0TTV3UWBBMNjNvs8egg) 提取码：6vf7
 ## 井字游戏
 *添加音乐播放暂停等功能*
 <div algin='center'>

@@ -6,7 +6,7 @@
 
 ## 飞机大战
 *微信小游戏飞机大战*
-<div algin='center'>
+<div>
 <img src="https://github.com/crazywh/MyPygame/blob/master/Image/plane1.png"  height="330">
 <img src="https://github.com/crazywh/MyPygame/blob/master/Image/plane2.png"  height="330">
 </div>
@@ -19,9 +19,9 @@
 ## 贪吃蛇
 *参考基本的游戏界面完成，添加音乐，暂停，分数记录等功能*
 <div algin='center'>
-<img src="https://github.com/crazywh/MyPygame/blob/master/Image/s1.png"  height="330">
-<img src="https://github.com/crazywh/MyPygame/blob/master/Image/s2.png"  height="330">
-<img src="https://github.com/crazywh/MyPygame/blob/master/Image/s3.png"  height="330">  
+<img src="https://github.com/crazywh/MyPygame/blob/master/Image/s1.png"  height="200">
+<img src="https://github.com/crazywh/MyPygame/blob/master/Image/s2.png"  height="200">
+<img src="https://github.com/crazywh/MyPygame/blob/master/Image/s3.png"  height="200">  
 </div>
 
 [源码链接](https://github.com/crazywh/Snake)

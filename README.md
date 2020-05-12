@@ -1,6 +1,8 @@
 # MyPygame
 
-**使用Python的第三方模块pygame进行小游戏的开发；不定时更新中...**
+**使用Python的第三方模块pygame进行小游戏的开发
+
+**不定时更新中...**
 
 **Python 3.6.0**
 

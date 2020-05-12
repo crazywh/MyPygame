@@ -4,7 +4,7 @@
 
 **不定时更新中...**
 
-**主要工具：Python 3.6.0 + Pygame + pyinstaller（打包模块）**
+**主要工具：Python 3.6.0 + Pygame + Pyinstaller（打包模块）**
 
 ## 飞机大战
 微信小游戏飞机大战

@@ -53,4 +53,4 @@
 ## 俄罗斯方块
 功能完善中...
 
-[源码链接](https://github.com/crazywh/Hit-Brick)
+[源码链接](https://github.com/crazywh/Tetris)

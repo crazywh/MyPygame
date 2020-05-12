@@ -21,9 +21,9 @@
 ## 贪吃蛇
 添加音乐，暂停，分数记录等功能
 <div algin='center'>
-<img src="https://github.com/crazywh/MyPygame/blob/master/Image/s1.png"  height="200">
-<img src="https://github.com/crazywh/MyPygame/blob/master/Image/s2.png"  height="200">
-<img src="https://github.com/crazywh/MyPygame/blob/master/Image/s3.png"  height="200">  
+<img src="https://github.com/crazywh/MyPygame/blob/master/Image/s1.png"  height="220">
+<img src="https://github.com/crazywh/MyPygame/blob/master/Image/s2.png"  height="220">
+<img src="https://github.com/crazywh/MyPygame/blob/master/Image/s3.png"  height="220">  
 </div>
 
 [源码链接](https://github.com/crazywh/Snake)
@@ -54,13 +54,13 @@
 基本功能完善，添加改变落地颜色功能
 
 <div algin='center'>
-<img src="https://github.com/crazywh/MyPygame/blob/master/Image/tt1.png"  height="200">
-<img src="https://github.com/crazywh/MyPygame/blob/master/Image/tt2.png"  height="200">
-<img src="https://github.com/crazywh/MyPygame/blob/master/Image/tt3.png"  height="200">  
+<img src="https://github.com/crazywh/MyPygame/blob/master/Image/tt1.png"  height="220">
+<img src="https://github.com/crazywh/MyPygame/blob/master/Image/tt2.png"  height="220">
+<img src="https://github.com/crazywh/MyPygame/blob/master/Image/tt3.png"  height="220">  
 </div>
 
 [源码链接](https://github.com/crazywh/Tetris)
 
-[EXE文件链接](https://pan.baidu.com/s/1X3T3own_75egXnEg-Q8yjA) 提取码：hex7
+[EXE文件链接](https://pan.baidu.com/s/1XwyNJLUuAVPWdNFM9u4I_Q) 提取码：cbxp
 
 ## 待更新...

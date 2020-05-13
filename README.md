@@ -54,9 +54,9 @@
 基本功能完善，添加改变落地颜色功能
 
 <div algin='center'>
-<img src="https://github.com/crazywh/MyPygame/blob/master/Image/tt1.png"  height="220">
-<img src="https://github.com/crazywh/MyPygame/blob/master/Image/tt2.png"  height="220">
-<img src="https://github.com/crazywh/MyPygame/blob/master/Image/tt3.png"  height="220">  
+<img src="https://github.com/crazywh/MyPygame/blob/master/Image/tt1.png"  height="250">
+<img src="https://github.com/crazywh/MyPygame/blob/master/Image/tt2.png"  height="250">
+<img src="https://github.com/crazywh/MyPygame/blob/master/Image/tt3.png"  height="250">  
 </div>
 
 [源码链接](https://github.com/crazywh/Tetris)

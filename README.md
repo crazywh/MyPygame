@@ -64,7 +64,7 @@
 [EXE文件链接](https://pan.baidu.com/s/1XwyNJLUuAVPWdNFM9u4I_Q) 提取码：cbxp
 
 ## 连连看
-基本功能已经完善，消除机制需要更新
+基本功能已经完善
 <div algin='center'>
 <img src="https://github.com/crazywh/MyPygame/blob/master/Image/l1.png"  height="330">
 <img src="https://github.com/crazywh/MyPygame/blob/master/Image/l2.png"  height="330">

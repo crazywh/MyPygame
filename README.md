@@ -72,6 +72,6 @@
 
 [EXE文件链接](https://pan.baidu.com/s/10iZOf1lPVD35gWfNAsncAg) 提取码：gwtz
 
-##Flappy-Bird
+## Flappy-Bird
 
 [源码链接](https://github.com/crazywh/Flappy-Bird)

@@ -73,5 +73,12 @@
 [EXE文件链接](https://pan.baidu.com/s/10iZOf1lPVD35gWfNAsncAg) 提取码：gwtz
 
 ## Flappy-Bird
+<div>
+<img src="https://github.com/crazywh/MyPygame/blob/master/Image/f1.png"  height="330">
+<img src="https://github.com/crazywh/MyPygame/blob/master/Image/f2.png"  height="330">
+<img src="https://github.com/crazywh/MyPygame/blob/master/Image/f2.png"  height="330">
+</div>
 
 [源码链接](https://github.com/crazywh/Flappy-Bird)
+
+[EXE文件链接](https://pan.baidu.com/s/1KzS6PauJySPv2AhjSm4e8A) 提取码：alfq

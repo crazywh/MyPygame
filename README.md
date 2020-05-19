@@ -76,7 +76,7 @@
 <div>
 <img src="https://github.com/crazywh/MyPygame/blob/master/Image/f1.png"  height="330">
 <img src="https://github.com/crazywh/MyPygame/blob/master/Image/f2.png"  height="330">
-<img src="https://github.com/crazywh/MyPygame/blob/master/Image/f2.png"  height="330">
+<img src="https://github.com/crazywh/MyPygame/blob/master/Image/f3.png"  height="330">
 </div>
 
 [源码链接](https://github.com/crazywh/Flappy-Bird)
